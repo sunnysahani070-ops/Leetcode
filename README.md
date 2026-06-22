@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0493-reverse-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0205-isomorphic-strings) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
