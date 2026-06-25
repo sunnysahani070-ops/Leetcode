@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0118-pascals-triangle](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0118-pascals-triangle) |
 | [0493-reverse-pairs](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0493-reverse-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2643-row-with-maximum-ones](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2643-row-with-maximum-ones) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
 | ------- |
