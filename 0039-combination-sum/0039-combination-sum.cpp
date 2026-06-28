@@ -10,11 +10,11 @@ class Solution {
             return;
         }
 
-       
+        if(nums[index]<=k){
         temp.push_back(nums[index]);
         solve(nums, index, sum + nums[index], k, ans, temp);
         temp.pop_back();
-
+               };
         
         solve(nums, index + 1, sum, k, ans, temp);
     }
