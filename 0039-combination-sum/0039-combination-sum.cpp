@@ -10,12 +10,12 @@ class Solution {
             return;
         }
 
-        // Take current element
+       
         temp.push_back(nums[index]);
         solve(nums, index, sum + nums[index], k, ans, temp);
         temp.pop_back();
 
-        // Skip current element
+        
         solve(nums, index + 1, sum, k, ans, temp);
     }
 
