@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0118-pascals-triangle) |
 | [0216-combination-sum-iii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Stack
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
