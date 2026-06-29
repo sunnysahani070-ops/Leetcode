@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1901-find-a-peak-element-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0493-reverse-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1901-find-a-peak-element-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Sliding Window
 |  |
