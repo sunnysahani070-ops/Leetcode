@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0051-n-queens) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Stack
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
