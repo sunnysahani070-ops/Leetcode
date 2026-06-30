@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1922-count-good-numbers) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0231-power-of-two) |
 ## Depth-First Search
 |  |
 | ------- |
