@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0139-word-break) |
+| [0189-rotate-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0260-single-number-iii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0283-move-zeroes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Stack
