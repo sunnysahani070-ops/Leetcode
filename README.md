@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0493-reverse-pairs) |
 | [0904-fruit-into-baskets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0283-move-zeroes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Stack
 |  |
