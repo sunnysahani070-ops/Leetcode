@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1922-count-good-numbers) |
 ## Backtracking
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
