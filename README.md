@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -289,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
