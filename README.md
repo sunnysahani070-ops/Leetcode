@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0078-subsets) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0735-asteroid-collision) |
 ## Monotonic Queue
 |  |
