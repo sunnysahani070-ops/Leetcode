@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0283-move-zeroes) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -342,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0735-asteroid-collision) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
