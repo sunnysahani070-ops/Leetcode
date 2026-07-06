@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1901-find-a-peak-element-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2643-row-with-maximum-ones](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## String Matching
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
