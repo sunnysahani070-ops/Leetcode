@@ -10,21 +10,16 @@
  * };
  */
 class Solution {
-    void in(TreeNode* root,vector<int>& ans,int& cnt){
-        if(root==NULL){
-            return;
-        }
+    void count(TreeNode* root, int &cnt) {
+        if (root == nullptr) return;
         cnt++;
-        in(root->left,ans,cnt);
-        ans.push_back(root->val);
-        in(root->right,ans,cnt);
+        count(root->left, cnt);
+        count(root->right, cnt);
     }
 public:
     int countNodes(TreeNode* root) {
-        int cnt=0;
-        vector<int> ans;
-        in(root,ans,cnt);
+        int cnt = 0;
+        count(root, cnt);
         return cnt;
-        
     }
 };
