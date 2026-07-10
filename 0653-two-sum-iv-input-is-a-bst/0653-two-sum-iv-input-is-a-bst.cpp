@@ -10,22 +10,64 @@
  * };
  */
 class Solution {
-    unordered_set<int> st;
+    class BSTIterator {
+    stack<TreeNode*> st;
+    bool reverse;
 
-    bool dfs(TreeNode* root, int k) {
-        if (root == NULL)
-            return false;
+    void pushAll(TreeNode* node) {
+        while (node) {
+            st.push(node);
 
-        if (st.count(k - root->val))
-            return true;
-
-        st.insert(root->val);
-
-        return dfs(root->left, k) || dfs(root->right, k);
+            if (reverse)
+                node = node->right;
+            else
+                node = node->left;
+        }
     }
 
 public:
-    bool findTarget(TreeNode* root, int k) {
-        return dfs(root, k);
+    BSTIterator(TreeNode* root, bool isReverse) {
+        reverse = isReverse;
+        pushAll(root);
+    }
+
+    int next() {
+        TreeNode* node = st.top();
+        st.pop();
+
+        if (reverse)
+            pushAll(node->left);
+        else
+            pushAll(node->right);
+
+        return node->val;
+    }
+};
+
+public:
+     bool findTarget(TreeNode* root, int k) {
+
+        if (!root)
+            return false;
+
+        BSTIterator l(root, false); // smallest
+        BSTIterator r(root, true);  // largest
+
+        int i = l.next();
+        int j = r.next();
+
+        while (i < j) {
+            int sum = i + j;
+
+            if (sum == k)
+                return true;
+
+            if (sum < k)
+                i = l.next();
+            else
+                j = r.next();
+        }
+
+        return false;
     }
 };
