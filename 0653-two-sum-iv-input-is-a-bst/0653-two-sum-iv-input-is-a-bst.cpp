@@ -10,31 +10,22 @@
  * };
  */
 class Solution {
-    void in(TreeNode* root,vector<int>& ans){
-        if(root==NULL){
-            return;
-        }
-        in(root->left,ans);
-        ans.push_back(root->val);
-        in(root->right,ans);
+    unordered_set<int> st;
+
+    bool dfs(TreeNode* root, int k) {
+        if (root == NULL)
+            return false;
+
+        if (st.count(k - root->val))
+            return true;
+
+        st.insert(root->val);
+
+        return dfs(root->left, k) || dfs(root->right, k);
     }
+
 public:
     bool findTarget(TreeNode* root, int k) {
-        vector<int> ans;
-        in(root,ans);
-        int j=ans.size()-1;
-        int i=0;
-        while(i<j){
-            if(ans[i]+ans[j]==k){
-                return true;
-            }
-            else if(ans[i]+ans[j]>k){
-                j--;
-            }else{
-                i++;
-            }
-        }
-        return false;
-        
+        return dfs(root, k);
     }
 };
