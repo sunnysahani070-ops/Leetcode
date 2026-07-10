@@ -10,27 +10,24 @@
  * };
  */
 class Solution {
-    void pre(TreeNode* root,set<int>& ans){
-        if(root==NULL){
+    void inorder(TreeNode* root, int& k, int& ans) {
+        if (root == NULL) return;
+
+        inorder(root->left, k, ans);
+
+        k--;
+        if (k == 0) {
+            ans = root->val;
             return;
         }
-        ans.insert(root->val);
-        pre(root->left,ans);
-        pre(root->right,ans);
 
+        inorder(root->right, k, ans);
     }
+
 public:
     int kthSmallest(TreeNode* root, int k) {
-        set<int> ans;
-        pre(root,ans);
-
-        if(k>ans.size()){
-            return -1;
-        }
-        auto it =next(ans.begin(), k-1);
-
-        int element = *it; 
-        return element;
-        
+        int ans = -1;
+        inorder(root, k, ans);
+        return ans;
     }
 };
