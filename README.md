@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -561,4 +563,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
