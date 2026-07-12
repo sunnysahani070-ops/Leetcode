@@ -1,35 +1,30 @@
 class Solution {
 public:
     bool isNStraightHand(vector<int>& hand, int groupSize) {
-        if (hand.size() % groupSize != 0 || hand.size() < groupSize) {
+        int n = hand.size();
+
+        if (n % groupSize != 0)
             return false;
-        }
-        map<int, int> mpp;
-        for (int i = 0; i < hand.size(); i++) {
-            mpp[hand[i]]++;
-        }
-        for (auto it = mpp.begin(); it != mpp.end(); ++it) {
-            if (it->second > 0) {
-                int val = it->second;
-                for (auto it = mpp.begin(); it != mpp.end(); ++it) {
-                    if (it->second > 0) {
-                        int val = it->second;
 
-                        
-                        for (int i = 1; i < groupSize; i++) {
-                            if (mpp[it->first + i] < val) {
-                                return false;
-                            }
-                            mpp[it->first + i] -=
-                                val; // Correct map access syntax
-                        }
+        map<int, int> freq;
 
-                        // 2. Decrement the starting card once after the loop
-                        it->second = 0;
-                    }
-                }
+        for (int card : hand)
+            freq[card]++;
+
+        for (auto &[card, count] : freq) {
+            if (count == 0)
+                continue;
+
+            int cnt = count;
+
+            for (int i = 0; i < groupSize; i++) {
+                if (freq[card + i] < cnt)
+                    return false;
+
+                freq[card + i] -= cnt;
             }
         }
+
         return true;
     }
 };
