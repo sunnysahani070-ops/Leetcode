@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0078-subsets) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0621-task-scheduler) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
