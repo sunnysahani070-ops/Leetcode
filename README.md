@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
