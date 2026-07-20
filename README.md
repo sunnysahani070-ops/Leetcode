@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2104-sum-of-subarray-ranges](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2643-row-with-maximum-ones](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3731-find-missing-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3731-find-missing-elements) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0493-reverse-pairs) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3731-find-missing-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -353,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -432,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0260-single-number-iii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Depth-First Search
 |  |
@@ -702,4 +709,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0062-unique-paths) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
