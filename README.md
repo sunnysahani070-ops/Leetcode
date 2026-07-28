@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
