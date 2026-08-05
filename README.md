@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0076-minimum-window-substring) |
