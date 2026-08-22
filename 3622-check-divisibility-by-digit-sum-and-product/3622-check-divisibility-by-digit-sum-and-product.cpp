@@ -1,21 +1,18 @@
 class Solution {
 public:
     bool checkDivisibility(int n) {
-        string s=to_string(n);
-        int a=0;
-        int b=1;
-
-        for(int i=0;i<s.size();i++){
-            a+=s[i]-'0';
-            b*=s[i]-'0';
-
-        }
-        int k=a+b;
-        if(n%k==0){
-            return true;
-        }
-        return false;
+        int temp = n;
+        int digitSum = 0;
+        int digitProduct = 1;
         
+        while (temp > 0) {
+            int digit = temp % 10;
+            digitSum += digit;
+            digitProduct *= digit;
+            temp /= 10;            
+        }
         
+        int k = digitSum + digitProduct;
+        return n % k == 0;
     }
 };
