@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0198-house-robber) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0242-valid-anagram) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0324-wiggle-sort-ii) |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0621-task-scheduler) |
@@ -966,4 +971,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
