@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2029-stone-game-ix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2104-sum-of-subarray-ranges](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
