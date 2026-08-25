@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0376-wiggle-subsequence](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0455-assign-cookies) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0486-predict-the-winner) |
