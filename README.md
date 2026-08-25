@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1386-cinema-seat-allocation](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
