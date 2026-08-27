@@ -1,8 +1,11 @@
 class Solution {
 public:
     int fourSumCount(vector<int>& nums1, vector<int>& nums2, vector<int>& nums3, vector<int>& nums4) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        
         unordered_map<int, int> sumMap;
-        int count = 0;
+        sumMap.reserve(nums1.size() * nums2.size());
         
         for (int a : nums1) {
             for (int b : nums2) {
@@ -10,11 +13,14 @@ public:
             }
         }
         
+        int count = 0;
         for (int c : nums3) {
             for (int d : nums4) {
                 int target = -(c + d);
-                if (sumMap.find(target) != sumMap.end()) {
-                    count += sumMap[target];
+               
+                auto it = sumMap.find(target); 
+                if (it != sumMap.end()) {
+                    count += it->second;
                 }
             }
         }
