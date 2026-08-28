@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2029-stone-game-ix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2055-plates-between-candles](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2055-plates-between-candles) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2055-plates-between-candles](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2055-plates-between-candles) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1927-sum-game) |
+| [2055-plates-between-candles](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2055-plates-between-candles) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2484-count-palindromic-subsequences](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2484-count-palindromic-subsequences) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1872-stone-game-viii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1872-stone-game-viii) |
+| [2055-plates-between-candles](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2055-plates-between-candles) |
 ## Recursion
 |  |
 | ------- |
