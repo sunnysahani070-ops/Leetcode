@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2404-most-frequent-even-element](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2498-frog-jump-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2498-frog-jump-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2594-minimum-time-to-repair-cars](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2643-row-with-maximum-ones](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2643-row-with-maximum-ones) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2055-plates-between-candles](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2055-plates-between-candles) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2498-frog-jump-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2498-frog-jump-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2594-minimum-time-to-repair-cars](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2498-frog-jump-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2498-frog-jump-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
