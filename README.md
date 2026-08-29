@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0846-hand-of-straights) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -1088,4 +1090,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0278-first-bad-version) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
