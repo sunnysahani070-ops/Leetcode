@@ -1,15 +1,17 @@
 class Solution {
 public:
     int maximumCandies(vector<int>& candies, long long k) {
-        long long low = 1;
-        long long high = 0;
-        
+        long long sum = 0;
         for (int c : candies) {
-            if (c > high) {
-                high = c;
-            }
+            sum += c;
         }
         
+        if (sum < k) {
+            return 0;
+        }
+        
+        long long low = 1;
+        long long high = sum / k; 
         int ans = 0;
         
         while (low <= high) {
