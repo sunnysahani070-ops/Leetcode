@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2404-most-frequent-even-element](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
