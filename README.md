@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2029-stone-game-ix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2498-frog-jump-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2498-frog-jump-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
