@@ -10,7 +10,7 @@ public:
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
-            // Find row with maximum element in mid column
+           
             int maxRow = 0;
             for (int i = 1; i < m; i++) {
                 if (mat[i][mid] > mat[maxRow][mid])
