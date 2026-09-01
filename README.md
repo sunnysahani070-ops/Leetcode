@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1872-stone-game-viii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1995-count-special-quadruplets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2404-most-frequent-even-element](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2404-most-frequent-even-element) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
