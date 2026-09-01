@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3731-find-missing-elements) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3731-find-missing-elements) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2643-row-with-maximum-ones](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2643-row-with-maximum-ones) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
 |  |
 | ------- |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Depth-First Search
 |  |
@@ -976,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
 |  |
 | ------- |
