@@ -1,23 +1,22 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        unordered_map<char, int> freq;
-
+        int freq[256] = {0}; 
         for (char c : s) {
             freq[c]++;
         }
-
-        vector<pair<char, int>> v(freq.begin(), freq.end());
-
-        sort(v.begin(), v.end(),
-             [](const pair<char, int>& a, const pair<char, int>& b) {
-                 return a.second > b.second;
-             });
-
+        vector<pair<int, char>> v;
+        for (int i = 0; i < 256; i++) {
+            if (freq[i] > 0) {
+                v.push_back({freq[i], (char)i});
+            }
+        }
+        sort(v.begin(), v.end(), greater<pair<int, char>>());
         string result;
-
-        for (auto &p : v) {
-            result.append(p.second, p.first);
+        result.reserve(s.size()); 
+        
+        for (auto& p : v) {
+            result.append(p.first, p.second); 
         }
 
         return result;
