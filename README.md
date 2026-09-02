@@ -1128,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Manacher
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0214-shortest-palindrome](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Minimax
 |  |
