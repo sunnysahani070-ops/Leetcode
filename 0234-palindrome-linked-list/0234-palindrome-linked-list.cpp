@@ -21,7 +21,6 @@
 
 class Solution {
 public:
-    // Function to reverse a linked list
     ListNode* reverse(ListNode* head) {
         ListNode* prev = nullptr;
         ListNode* curr = head;
