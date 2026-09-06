@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0229-majority-element-ii) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0282-expression-add-operators) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -1209,4 +1212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
