@@ -1204,4 +1204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
