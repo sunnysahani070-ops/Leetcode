@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0148-sort-list) |
