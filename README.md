@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0079-word-search) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0202-happy-number) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0136-single-number) |
@@ -936,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1260-shift-2d-grid) |
