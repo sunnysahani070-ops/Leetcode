@@ -19,7 +19,6 @@ public:
         ListNode* groupPrev = &dummy;
 
         while (true) {
-            // Find the kth node
             ListNode* kth = groupPrev;
             for (int i = 0; i < k && kth; i++) {
                 kth = kth->next;
@@ -28,8 +27,6 @@ public:
             if (!kth) break;
 
             ListNode* groupNext = kth->next;
-
-            // Reverse the group
             ListNode* prev = groupNext;
             ListNode* curr = groupPrev->next;
 
@@ -39,9 +36,7 @@ public:
                 prev = curr;
                 curr = temp;
             }
-
-            // Reconnect
-            ListNode* temp = groupPrev->next; // old head, now tail
+            ListNode* temp = groupPrev->next;
             groupPrev->next = kth;
             groupPrev = temp;
         }
