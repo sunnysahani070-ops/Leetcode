@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -1144,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Bitmask
 |  |
 | ------- |
@@ -1267,4 +1269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0372-super-pow) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
