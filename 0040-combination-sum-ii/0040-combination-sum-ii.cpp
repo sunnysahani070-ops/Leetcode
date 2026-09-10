@@ -9,12 +9,8 @@ class Solution {
         }
 
         for (int i = index; i < nums.size(); i++) {
-
-            // Skip duplicates
             if (i > index && nums[i] == nums[i - 1])
                 continue;
-
-            // Since array is sorted
             if (nums[i] > target)
                 break;
 
