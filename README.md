@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2055-plates-between-candles](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2055-plates-between-candles) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2498-frog-jump-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2498-frog-jump-ii) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -1172,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Z Algorithm
 |  |
 | ------- |
