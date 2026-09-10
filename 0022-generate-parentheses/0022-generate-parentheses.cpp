@@ -1,23 +1,29 @@
 class Solution {
-    void generate(string s, int open, int close, int n, vector<string>& ans) {
-    
-    if(s.length() == 2*n){
-        ans.push_back(s);
-        return;
+private:
+    void generate(int open, int close, int n, string& current, vector<string>& ans) {
+        if (current.length() == n * 2) {
+            ans.push_back(current);
+            return;
+        }
+        
+        if (open < n) {
+            current.push_back('(');
+            generate(open + 1, close, n, current, ans);
+            current.pop_back();
+        }
+        
+        if (close < open) {
+            current.push_back(')');
+            generate(open, close + 1, n, current, ans);
+            current.pop_back();
+        }
     }
 
-    if(open < n){
-        generate(s + '(', open + 1, close, n, ans);
-    }
-
-    if(close < open){
-        generate(s + ')', open, close + 1, n, ans);
-    }
-}
 public:
     vector<string> generateParenthesis(int n) {
-    vector<string> ans;
-    generate("", 0, 0, n, ans);
-    return ans;
-};
+        vector<string> ans;
+        string current;
+        generate(0, 0, n, current, ans);
+        return ans;
+    }
 };
