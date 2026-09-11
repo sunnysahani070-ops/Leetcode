@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2029-stone-game-ix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2055-plates-between-candles](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2055-plates-between-candles) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0784-letter-case-permutation) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1116,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0204-count-primes) |
 | [1995-count-special-quadruplets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1995-count-special-quadruplets) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2468-split-message-based-on-limit](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2468-split-message-based-on-limit) |
 | [2951-find-the-peaks](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2951-find-the-peaks) |
