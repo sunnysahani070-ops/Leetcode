@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2484-count-palindromic-subsequences](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2484-count-palindromic-subsequences) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2498-frog-jump-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2498-frog-jump-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
