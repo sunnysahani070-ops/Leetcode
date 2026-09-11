@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3467-transform-array-by-parity](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -1113,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2468-split-message-based-on-limit](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2468-split-message-based-on-limit) |
 | [2951-find-the-peaks](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2951-find-the-peaks) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
