@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0994-rotting-oranges) |
+| [1001-grid-illumination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1001-grid-illumination) |
 | [1004-max-consecutive-ones-iii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1001-grid-illumination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1001-grid-illumination) |
 | [1048-longest-string-chain](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
