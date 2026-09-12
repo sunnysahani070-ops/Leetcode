@@ -1319,4 +1319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
