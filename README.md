@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2594-minimum-time-to-repair-cars](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -735,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2266-count-number-of-texts](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2266-count-number-of-texts) |
 | [2484-count-palindromic-subsequences](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2484-count-palindromic-subsequences) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
 | ------- |
