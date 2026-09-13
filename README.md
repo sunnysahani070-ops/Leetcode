@@ -1327,6 +1327,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
