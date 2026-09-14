@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0372-super-pow) |
 | [0486-predict-the-winner](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0486-predict-the-winner) |
@@ -836,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0486-predict-the-winner) |
 | [1106-parsing-a-boolean-expression](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1922-count-good-numbers) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0784-letter-case-permutation](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0784-letter-case-permutation) |
