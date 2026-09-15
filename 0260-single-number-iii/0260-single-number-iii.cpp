@@ -1,26 +1,17 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        int xorAll = 0;
-
-        // XOR of all elements = x ^ y
+        long long xor_sum = 0;
+        for (int num : nums) xor_sum ^= num;
+        
+        long long diff = xor_sum & -xor_sum;
+        int a = 0, b = 0;
+        
         for (int num : nums) {
-            xorAll ^= num;
+            if (num & diff) a ^= num;
+            else b ^= num;
         }
-
-        // Safely find the rightmost set bit
-        unsigned int mask = (unsigned int)xorAll & (-(unsigned int)xorAll);
-
-        int num1 = 0, num2 = 0;
-
-        // Divide numbers into two groups
-        for (int num : nums) {
-            if ((unsigned int)num & mask)
-                num1 ^= num;
-            else
-                num2 ^= num;
-        }
-
-        return {num1, num2};
+        
+        return {a, b};
     }
 };
