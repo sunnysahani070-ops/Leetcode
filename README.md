@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0289-game-of-life) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0355-design-twitter) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0342-power-of-four) |
@@ -634,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -887,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0401-binary-watch) |
