@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1486-xor-operation-in-an-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -906,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1486-xor-operation-in-an-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
