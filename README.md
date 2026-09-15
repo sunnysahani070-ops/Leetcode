@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2404-most-frequent-even-element](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2498-frog-jump-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2498-frog-jump-ii) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
