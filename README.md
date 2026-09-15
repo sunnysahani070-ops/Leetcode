@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2266-count-number-of-texts](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2266-count-number-of-texts) |
 | [2278-percentage-of-letter-in-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2468-split-message-based-on-limit](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2468-split-message-based-on-limit) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2484-count-palindromic-subsequences](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2484-count-palindromic-subsequences) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2498-frog-jump-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1872-stone-game-viii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2266-count-number-of-texts](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2266-count-number-of-texts) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2484-count-palindromic-subsequences](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2484-count-palindromic-subsequences) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
