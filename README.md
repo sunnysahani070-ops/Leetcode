@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -897,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
