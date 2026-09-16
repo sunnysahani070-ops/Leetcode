@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2266-count-number-of-texts](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2266-count-number-of-texts) |
+| [2427-number-of-common-factors](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -1204,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2427-number-of-common-factors](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2468-split-message-based-on-limit](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2468-split-message-based-on-limit) |
 | [2951-find-the-peaks](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2951-find-the-peaks) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -1216,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Union-Find
@@ -1414,4 +1417,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0279-perfect-squares) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
