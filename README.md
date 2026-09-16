@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0326-power-of-three) |
