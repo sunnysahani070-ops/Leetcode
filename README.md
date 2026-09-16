@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0342-power-of-four) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0312-burst-balloons) |
@@ -1155,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0542-01-matrix) |
@@ -1403,4 +1406,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0204-count-primes) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
