@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1406,6 +1407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sunnysahani070-ops/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sunnysahani070-ops/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Primality Test
 |  |
 | ------- |
