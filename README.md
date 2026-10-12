@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2643-row-with-maximum-ones](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2951-find-the-peaks](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2266-count-number-of-texts](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2266-count-number-of-texts) |
 | [2404-most-frequent-even-element](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2498-frog-jump-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2498-frog-jump-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -951,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
