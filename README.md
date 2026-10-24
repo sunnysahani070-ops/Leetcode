@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2266-count-number-of-texts](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2266-count-number-of-texts) |
 | [2278-percentage-of-letter-in-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
+| [2409-count-days-spent-together](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2468-split-message-based-on-limit](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2468-split-message-based-on-limit) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2484-count-palindromic-subsequences](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2484-count-palindromic-subsequences) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2266-count-number-of-texts](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2266-count-number-of-texts) |
+| [2409-count-days-spent-together](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
