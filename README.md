@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2055-plates-between-candles](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2055-plates-between-candles) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
