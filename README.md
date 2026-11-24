@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1322,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2468-split-message-based-on-limit](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2468-split-message-based-on-limit) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2951-find-the-peaks) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1336,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sunnysahani070-ops/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sunnysahani070-ops/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Union-Find
 |  |
 | ------- |
